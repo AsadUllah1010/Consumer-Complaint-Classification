@@ -16,3 +16,9 @@ Here is a dataset based on consumer complaints collected by Consumer Financial P
 6. Consumer complaint narrative: Complete description of the complaint reported by the consumer
 <br>
 This problem aims to identify the category of the complaint filed by the consumer to identify the most important issues to be addressed first. The Product column contains the name of the product where the consumer found issues. So the Product column is the target variable in this classification problem.
+# Usage 
+Jupyter Notebook
+# Conclusion 
+Consumer Complaint Classification is helpful for consumer care departments as they receive thousands of complaints daily, so classifying them helps identify complaints that need to be solved first to reduce the loss of the consumer. 
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
